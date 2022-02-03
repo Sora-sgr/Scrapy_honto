@@ -1,0 +1,1 @@
+15 1 * * * bash /Users/taiga/Programiming/Scrapy_Study/scrapy_honto/scrapy_schedule_run/scrapy_schedule_run.sh >> /Users/taiga/Programiming/Scrapy_Study/scrapy_honto/scrapy_schedule_run/log.txt
